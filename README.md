@@ -1,4 +1,4 @@
-# HSBC codechallenge 
+# codechallenge 
 
 * Maven project which parse 2 flat files and feature file to define the scenarios.
 
